@@ -1,0 +1,6 @@
+# don't do EOL conversion, use klc driver for diff
+*.klc   -text diff=klc 
+# KLC file has UTF-16 encoding and git treats it as binary file. 
+# In order to be able to display a diff, following diff driver has to be defined in .git/config 
+# [diff "klc"]
+#     textconv = "iconv -f utf-16le -t utf-8"
