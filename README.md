@@ -1,6 +1,6 @@
 # Czech Typographical Keyboard
 
-Czech typographical keyboard layout definition for [Microsoft Keyboard Layout Creator](https://msdn.microsoft.com/en-us/globalization/keyboardlayouts).
+Czech typographical keyboard layout definition for [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-gb/download/details.aspx?id=22339).
 
 Layout is based on Czech (QWERTZ) layout and preserve most of it – only removes never-used symbols with stroke (`đĐłŁ`). 
 
